@@ -1,0 +1,1 @@
+newSingleThreadExecutor(): A single worker thread; tasks execute sequentially.
